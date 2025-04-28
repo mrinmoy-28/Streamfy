@@ -1,0 +1,30 @@
+{
+  "name": "vedio_stram",
+  "version": "1.0.0",
+  "description": "this is a vedio streaming platfrom with so many features",
+  "main": "index.js",
+  "scripts": {
+    "test": "start test"
+  },
+  "keywords": [
+    "mrinmoy",
+    "chai",
+    "backend"
+  ],
+  "author": "Mrinmoy Maji",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.0",
+    "multer": "^1.4.5-lts.2"
+  }
+}
